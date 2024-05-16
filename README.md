@@ -56,4 +56,4 @@ Here are some projects I've worked on:
 ## Contact Me
 Feel free to reach out to me via [email](mailto:akash02899@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/akash-b-7648b426b/). Feel free to explore my repositories and reach out if you have any questions or collaboration opportunities!
 Feel free to explore my repositories and reach out if you have any questions or collaboration opportunities!
-For more Detail please visit my Portfolio - (https://akash02899.github.io/protfolio/) [portfolio](https://akash02899.github.io/protfolio/)
+For more Detail please visit my [portfolio](https://akash02899.github.io/protfolio/)
